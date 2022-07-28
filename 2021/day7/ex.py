@@ -10,7 +10,7 @@ def median(l):
 	return l[half]
 
 
-f = open("./input2")
+f = open("./input1")
 pos = [int(i) for i in f.readline().split(",")]
 med = median(pos)
 cost = 0
@@ -24,12 +24,9 @@ cost = cost2 = 0.0
 for c in pos:
 	val = abs(m-c)
 	s = sum([i for i in range(val +1)])
-	print(str(val) + "  " + str(s))
 	cost2 += s
 	cost += int(sum([val*(val+1)//2 for i in pos]))
-print(cost)
-print(cost2)
-
-# 96 678 050
+print((cost/1000)-1)
+print(cost2-1)
 
 
