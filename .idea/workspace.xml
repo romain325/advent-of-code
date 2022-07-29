@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d166e8b-5701-4e78-96e1-e49abc67d1de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/872c75f19e4a84cd1cbf0422111bb455993a26d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e39e9a6a7d7f39ea4334e0e6a2fe77c6cea44bb5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021/day7/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/day7/ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,8 @@
       <workItem from="1658911547480" duration="69000" />
       <workItem from="1658911636986" duration="693000" />
       <workItem from="1658920449210" duration="2536000" />
-      <workItem from="1658987583127" duration="1490000" />
+      <workItem from="1658987583127" duration="3548000" />
+      <workItem from="1659074420658" duration="7221000" />
     </task>
     <servers />
   </component>
